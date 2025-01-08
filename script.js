@@ -1,5 +1,3 @@
-// Example JavaScript functionality (optional)
-
 document.getElementById("donationForm").addEventListener("submit", function(event) {
     event.preventDefault();
 
